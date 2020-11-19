@@ -19,7 +19,7 @@ print "==================================="
 print "          made by bad_boy"
 print "  my telegram id: @Bad_boy_468"
 print "==================================="
-print "hour,:,minute"
+print hour,:,minute
 target = raw_input("Enter Target Ip : ")
 port = 80
 os.system("clear")

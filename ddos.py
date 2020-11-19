@@ -23,7 +23,7 @@ target = raw_input("Enter Target Ip : ")
 port = input("Enter Your Port : ")
 os.system("clear")
 os.system("toilet -f mono12 -F gay STARTED!")
-print "LOADING[+++]"
+print "LOADING[+++]5%"
 time.sleep(3)
 print "LOADING[+++++]10%"
 time.sleep(3)

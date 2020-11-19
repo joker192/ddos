@@ -19,8 +19,9 @@ print "==================================="
 print "          made by bad_boy"
 print "  my telegram id: @Bad_boy_468"
 print "==================================="
+print(hour,":",minute)
 target = raw_input("Enter Target Ip : ")
-port = input("Enter Your Port : ")
+port = 80
 os.system("clear")
 os.system("toilet -f mono12 -F gay STARTED!")
 print "LOADING[+++]5%"

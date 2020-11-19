@@ -39,5 +39,5 @@ while True:
      sent = sent + 1
      port = port + 1
      print "Sent %s packet to %s target port:%s"%(sent,target,port)
-     if port == 65534:
+     if port == 60000:
        port = 1

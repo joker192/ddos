@@ -12,6 +12,7 @@ month = now.month
 year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
+os.system("pkg install toilet -y")
 os.system("clear")
 os.system("toilet -f mono12 -F gay DDOS")
 print "==================================="
